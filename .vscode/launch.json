@@ -29,7 +29,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/me",
-            "args": ["1.mp4"],
+            "args": ["D:\\s.mp4"],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
             "environment": [],

@@ -11,7 +11,7 @@
         {
             "label": "build_me",
             "type": "shell",
-            "command": "gcc -g -o me me.c -L /home/yuwhuawang/FFmpeg/ -lavformat -lavutil"
+            "command": "gcc -g -o me me.c -L /home/yuwhuawang/FFmpeg/ -lavformat -lavutil -lavcodec"
         }
     ]
 }
